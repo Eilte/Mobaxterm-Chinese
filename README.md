@@ -21,5 +21,9 @@ If you have any questions, please submit an issus. Before viewing the issus, ple
 
 ![](image/config.png)
 
+![](image/terminal.png)
+
+![](image/textedit.png)
+
 ## Target
 Waiting for the next major version.

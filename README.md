@@ -9,7 +9,7 @@ If you have any questions, please submit an issus. Before viewing the issus, ple
 
 该项目的初衷仅为满足自己对新功能的使用
 
-如果有问题请提交issus，在查看issus前请查看wiki https://github.com/Eilte/Mobaxterm-Chinese/wiki/Help
+如果有问题请提交issus，在提交issus前请查看wiki https://github.com/Eilte/Mobaxterm-Chinese/wiki/Help
 
 ## Photo
 

@@ -36,5 +36,9 @@ The original intention of this project is only to satisfy my own use of new feat
 
 ![](image/textedit.png)
 
+## ToDo
+
+[Not](https://github.com/Eilte/Mobaxterm-Chinese/issues/2)
+
 ## Target
 Waiting for the next major version.
